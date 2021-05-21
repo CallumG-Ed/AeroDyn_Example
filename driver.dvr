@@ -1,0 +1,22 @@
+-----  AeroDyn Driver v1.00.x Input File  --------------------------------------
+NREL 15MW Reference Turbine
+-----  Input Configuration  ----------------------------------------------------
+False           Echo            -  Echo input parameters to "<rootname>.ech"?
+"input.dat"     AD_InputFile    -  Name of the primary AeroDyn input file
+-----  Turbine Data  -----------------------------------------------------------
+  3							NumBlades       - Number of blades (-)
+  3.97   				HubRad          - Hub radius (m)
+  150						HubHt           - Hub height (m)
+  -11.4					Overhang        - Overhang (m)
+  0							ShftTilt        - Shaft tilt (deg)
+  0							Precone         - Blade precone (deg)
+-----  I/O Settings  -----------------------------------------------------------
+"output"      OutFileRoot     - Root name for any output files (use "" for .dvr rootname) (-)
+True            TabDel          - When generating formatted output (OutForm=True), make output tab-delimited (fixed-width otherwise) (flag)
+"ES10.3E2"      OutFmt          - Format used for text tabular output, excluding the time channel.  Resulting field should be 10 characters. (quoted string)
+True            Beep            - Beep on exit (flag)
+-----  Combined-Case Analysis  -------------------------------------------------
+          1   NumCases        - Number of cases to run
+WndSpeed       ShearExp       RotSpd        Pitch            Yaw           dT             Tmax
+(m/s)            (-)          (rpm)         (deg)           (deg)          (s)            (s)
+12			          0			      7.578   		    0			          0			        1			         1

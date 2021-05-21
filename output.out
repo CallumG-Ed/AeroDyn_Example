@@ -1,0 +1,9 @@
+
+Predictions were generated on 21-May-2021 at 10:54:34 using AeroDyn_driver
+ AeroDyn
+
+
+
+Time      	Case      	WindSpeed 	ShearExp  	RotAzimuth	Yaw       	RtSpeed   	RtTSR     	RtAeroFxh 	RtAeroFyh 	RtAeroFzh 	RtAeroMxh 	RtAeroMyh 	RtAeroMzh 	RtAeroPwr 	RtArea    	RtAeroCp  	RtAeroCq  	RtAeroCt  
+(s)       	(-)       	(m/s)     	(-)       	(deg)     	(deg)     	(rpm)     	(-)       	(N)       	(N)       	(N)       	(N-m)     	(N-m)     	(N-m)     	(W)       	(m^2)     	(-)       	(-)       	(-)       
+    0.0000         1	 1.200E+01	 0.000E+00	 0.000E+00	 0.000E+00	 7.578E+00	 8.000E+00	 2.897E+06	 1.455E-11	 2.910E-11	 2.929E+07	 3.725E-08	-4.470E-08	 2.324E+07	 4.597E+04	 4.777E-01	 5.971E-02	 7.144E-01

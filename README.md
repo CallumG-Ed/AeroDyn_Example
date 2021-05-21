@@ -6,4 +6,4 @@ The case files are based on the NREL 15MW reference turbine (https://www.nrel.go
 
 The sole idea of this repository is to show on a very basic level how to run an AeroDyn case. You will need to have installed OpenFAST and to run this case in a bash terminal run command:
 
-<path to executable>/aerodyn_driver driver.dvr
+"<path to executable>/aerodyn_driver driver.dvr"
